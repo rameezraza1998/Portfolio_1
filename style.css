@@ -17,8 +17,15 @@ body{
     --PlochereVermilion: #DF3520;
     --Eminence: #64297B;
     --SpaceCadet: #232555;
+    --css: #0000FF;
+
 }
 /* default variables end */
+
+.icon {
+    width: 100px;
+    height: 200px;
+  }
 
 .font-size_p{
 font-size: 30px;
@@ -39,13 +46,30 @@ font-size: 30px;
     border:  2px solid black;
  }
 .width-section-2{
-    width: 50px;
+    width: 33.33%;
+    height: 30vh;
 
+}
+.width-section-2a{
+    height: 60vh;
 }
 .center{
     margin-left: 400px;
 
  }
+ 
+.center_icon{
+    margin-left: 200px;
+
+ }
+ .html
+{
+    color: var(--redorange);
+    
+}
+.css{
+    color: var(--css);
+}
  
 
  
