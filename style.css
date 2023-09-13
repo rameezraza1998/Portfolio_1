@@ -22,6 +22,12 @@ body{
 }
 /* default variables end */
 
+.img{
+    height: 100px;
+    width: 100px;
+    background-color: #232555;
+}
+
 .icon {
     width: 100px;
     height: 200px;
@@ -44,6 +50,7 @@ font-size: 30px;
 
 .border{
     border:  2px solid black;
+    /* border: none; */
  }
 .width-section-2{
     width: 33.33%;
@@ -81,12 +88,13 @@ font-size: 30px;
  }
  
 .center2{
-    margin-left: 590px;
+    margin-left: 570px;
+    /* margin: 0 auto; */
 
  }
 
 .height-1{
-    height: 60vh;
+    height: 64vh;
 
  }
  
